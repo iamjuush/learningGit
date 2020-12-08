@@ -1,9 +1,6 @@
-# git init
 
-print("Hello world written by josh")
-
-# git add <filename>
-
-print("foobar")
+print("foobar new version")
 
 # git commit -m "Initial commit"
+
+# git push
